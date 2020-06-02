@@ -6,7 +6,14 @@ namespace AULA08ABSTRACAO
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            CartaoCredito visa = new CartaoCredito();
+            visa.limite = 3000f;
+
+            System.Console.WriteLine("Deseja aumentar seu limite em quanto?");
+            float acres = float.Parse( Console.ReadLine() );
+
+            visa.AumentarLimite(acres);
+            Console.WriteLine("Novo limite: R$ "+visa.limite);
         }
     }
 }

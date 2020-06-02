@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AULA08ABSTRACAO/1.0.0": {
+        "runtime": {
+          "AULA08ABSTRACAO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AULA08ABSTRACAO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

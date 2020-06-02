@@ -1,0 +1,13 @@
+C:\Users\vinicius\Documents\AULA08ABSTRACAO\bin\Debug\netcoreapp3.1\AULA08ABSTRACAO.exe
+C:\Users\vinicius\Documents\AULA08ABSTRACAO\bin\Debug\netcoreapp3.1\AULA08ABSTRACAO.deps.json
+C:\Users\vinicius\Documents\AULA08ABSTRACAO\bin\Debug\netcoreapp3.1\AULA08ABSTRACAO.runtimeconfig.json
+C:\Users\vinicius\Documents\AULA08ABSTRACAO\bin\Debug\netcoreapp3.1\AULA08ABSTRACAO.runtimeconfig.dev.json
+C:\Users\vinicius\Documents\AULA08ABSTRACAO\bin\Debug\netcoreapp3.1\AULA08ABSTRACAO.dll
+C:\Users\vinicius\Documents\AULA08ABSTRACAO\bin\Debug\netcoreapp3.1\AULA08ABSTRACAO.pdb
+C:\Users\vinicius\Documents\AULA08ABSTRACAO\obj\Debug\netcoreapp3.1\AULA08ABSTRACAO.csprojAssemblyReference.cache
+C:\Users\vinicius\Documents\AULA08ABSTRACAO\obj\Debug\netcoreapp3.1\AULA08ABSTRACAO.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\AULA08ABSTRACAO\obj\Debug\netcoreapp3.1\AULA08ABSTRACAO.AssemblyInfoInputs.cache
+C:\Users\vinicius\Documents\AULA08ABSTRACAO\obj\Debug\netcoreapp3.1\AULA08ABSTRACAO.AssemblyInfo.cs
+C:\Users\vinicius\Documents\AULA08ABSTRACAO\obj\Debug\netcoreapp3.1\AULA08ABSTRACAO.dll
+C:\Users\vinicius\Documents\AULA08ABSTRACAO\obj\Debug\netcoreapp3.1\AULA08ABSTRACAO.pdb
+C:\Users\vinicius\Documents\AULA08ABSTRACAO\obj\Debug\netcoreapp3.1\AULA08ABSTRACAO.genruntimeconfig.cache
